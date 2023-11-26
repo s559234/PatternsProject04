@@ -1,7 +1,10 @@
 package com.VoleteClasses.DMS.Models;
 
-import javax.persistence.*;
+import javax.persistence.Id;
 
+import javax.persistence.Entity;
+
+import javax.persistence.ManyToOne;
 
 /**
 *Sai Prashanth Volete

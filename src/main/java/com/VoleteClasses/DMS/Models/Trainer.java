@@ -1,8 +1,8 @@
 package com.VoleteClasses.DMS.Models;
 
-import javax.persistence.*;
+import javax.persistence.Entity;
 
-
+import javax.persistence.Id;
 /**
 *Sai Prashanth Volete
 */
